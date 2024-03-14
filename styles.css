@@ -2,6 +2,16 @@ h2 {
     color: #9c2222;
 }
 
+li {
+    height: 80px;
+    width: 120px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    border-width: 5px;
+    box-sizing: border-box;
+}
+
 .b1 {
     border-style: none;
     color: #053809;
