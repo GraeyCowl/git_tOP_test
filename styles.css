@@ -2,13 +2,13 @@ h2 {
     color: #9c2222;
 }
 
-li {
-    height: 80px;
-    width: 120px;
+.box {
+    height: 40px;
+    width: 85px;
     margin: 20px;
     padding: 20px;
     display: inline-block;
-    border-width: 5px;
+    border-width: 10px;
     box-sizing: border-box;
 }
 
