@@ -1,1 +1,43 @@
-/* proper stage */
+h2 {
+    color: #c4aa83;
+}
+
+.b1 {
+    border-style: none;
+  }
+  
+  .b2 {
+    border-style: hidden;
+  }
+  
+  .b3 {
+    border-style: dotted;
+  }
+  
+  .b4 {
+    border-style: dashed;
+  }
+  
+  .b5 {
+    border-style: solid;
+  }
+  
+  .b6 {
+    border-style: double;
+  }
+  
+  .b7 {
+    border-style: groove;
+  }
+  
+  .b8 {
+    border-style: ridge;
+  }
+  
+  .b9 {
+    border-style: inset;
+  }
+  
+  .b10 {
+    border-style: outset;
+  }
